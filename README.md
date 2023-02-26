@@ -2,7 +2,7 @@
 This repo contains decision-todo-app design by me 
 <hr>
 To run deployed repository :
-
+<br>
 <strong> 
 1.  'npm install' or 'yarn  init' <br>
 2.  'npm  run build' or 'yarn run build' --> to create bundle.js with babel manually <br>
